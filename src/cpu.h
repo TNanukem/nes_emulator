@@ -7,6 +7,8 @@ class cpu{
 
     public:
 
+        incrementPC();
+
     protected:
 
         // Registers and accumulators
