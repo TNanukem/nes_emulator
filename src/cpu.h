@@ -7,7 +7,7 @@ class cpu{
 
     public:
 
-        incrementPC();
+        void incrementPC();
 
     protected:
 
